@@ -11,3 +11,5 @@
 Select the Remote Explorer Icon on the left
 
 On the menu on the top left, select GitHub Codespaces and log in
+
+Add the code
